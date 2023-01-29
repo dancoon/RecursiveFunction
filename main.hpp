@@ -11,6 +11,7 @@ int powerRecursive(int x, int y);
 int fact(int n);
 int gcd(int x, int y);
 void reverseArray(int arr[], int l, int r);
+int fib(int n);
 
 #endif
 
