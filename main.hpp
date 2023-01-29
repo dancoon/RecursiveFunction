@@ -6,6 +6,8 @@
 using namespace std;
 
 int sumRecursive(int x, int y);
+int productRecursive(int x, int y);
+int powerRecursive(int x, int y);
 
 #endif
 
